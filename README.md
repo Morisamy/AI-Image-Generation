@@ -24,7 +24,6 @@ AI Image Generation is an advanced application that utilizes cutting-edge AI alg
 ---
 
 ### Demo:
-Explore the creative potential of AI-generated images by watching the project demonstration on YouTube [here](https://youtu.be/K8mT6I7_uJY).
-[here](https://youtu.be/z0V0V5_P29I).
+Explore the creative potential of AI-generated images by watching the project demonstration on YouTube [here](https://youtu.be/K8mT6I7_uJY) & [here](https://youtu.be/z0V0V5_P29I).
 
 ---
